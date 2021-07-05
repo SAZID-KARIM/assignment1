@@ -20,9 +20,14 @@ body{
     padding-left: 5%;
 }
 .half-width img{
-    width: 35%;
+    width: 30%;
 }
 .flexible{
     display: flex;
     margin-bottom: 100px;
+}
+.banner{
+    background-image: url(banner/middle.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
