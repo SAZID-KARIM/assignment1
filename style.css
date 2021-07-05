@@ -31,3 +31,14 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.middle{
+    text-align: center;
+}
+.food-item{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px;
+    border-radius: 10px;
+}
